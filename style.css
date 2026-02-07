@@ -1,0 +1,98 @@
+.fond-bleu{
+    border: solid 12px;
+    width: 250px;
+    height: 550px;
+    margin-left: 40%;
+    border-radius: 32px;
+    background-color: blue;
+}
+img{
+    margin-left: 8%;
+    padding:5px ;
+    margin-top: 90px;
+}
+body{
+    background-color: rgb(243, 240, 240);
+}
+button{
+height:  22px;
+width: 120px;
+margin-left: 27%;
+border-radius: 15px;
+background-color: black;
+margin-right: 19%;
+}
+.div2{
+    background-color: white;
+    width: 276px;
+    margin-top: 140px;
+    height: 380px;
+    border-radius:6%;
+    margin-left: 7px;
+   position: absolute;
+   transform: translateX(-8%);
+   inline-size:252px;
+}
+.font{
+    width: 185px;
+    height: 30%;
+    border-radius: 15px;
+    margin-top:-30%;
+    margin-left: 32px;
+} 
+.icon {
+  width: 35px;
+  height: 35px;
+  margin-top: 2px; 
+  display: flex; 
+margin-left: 3px;
+}
+.label{
+    margin-left: -2px;
+}
+.div1{
+margin-left: 75px;
+margin-top: -66px;
+} 
+.div3{
+    margin-left: 150px;
+    margin-top: -66px;
+}
+.div4{
+    margin-left: 205px;
+    margin-top: -66px;
+} 
+.label1{
+    margin-left: 9px;
+}
+.div6{
+margin-left: 75px;
+margin-top: -66px;
+}
+.div7{
+    margin-left: 148px;
+    margin-top: -66px;
+}
+.div8{
+    margin-left: 200px;
+    margin-top: -66px;
+} hr{
+    padding: 2px;
+    background-color: rgb(180, 175, 166);
+} 
+.div9{
+    margin-left: 45px;
+} 
+.div10{
+    margin-left: 16px;
+}  
+.div11{
+   margin-left:55px ;
+}
+.div12{
+    margin-left: 23px;
+}
+.div13{
+    margin-left:39px ;
+}
+.div100{}
